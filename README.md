@@ -1,5 +1,5 @@
 # Cloud_Data_Engineering
-In this project, I use Python, MySQL and AWS Services to create and automatically update an online database.
+This is a data engineering project, in which I use Python, MySQL and AWS Services to create and automatically update an online database.
 
 It is a learning project, in which I practise several data engineering techniques, such as API calls and AWS Lambda functions.
 
